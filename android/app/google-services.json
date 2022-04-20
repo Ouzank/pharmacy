@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "141615646921",
+    "project_id": "pharmacylocate",
+    "storage_bucket": "pharmacylocate.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:141615646921:android:a00cb06c70123bc7832518",
+        "android_client_info": {
+          "package_name": "com.example.pharmacylocate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "141615646921-fi2uk8v67rl24bneestkmlea2g09v4cd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHb2aXBAZXl8nBjgM5u4dod5K_j6GNLzE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "141615646921-fi2uk8v67rl24bneestkmlea2g09v4cd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
